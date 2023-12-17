@@ -1,5 +1,5 @@
 # Project_thesis_delivery
-GitHub repository holding code and support scripts related to the my project thesis December 2023. 
+GitHub repository holding code and support scripts related to my project thesis December 2023. 
 
 Repo structure:
 There are several files in the repo used for either profiling, running simulations on HPC clusters or for doing analysis of the profiling data. 
